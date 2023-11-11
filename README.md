@@ -5,7 +5,7 @@
 ## - 👨‍💻 I’m currently coding `C#, Python, Java, HTML, COBOL, VB.NET`
 ## - ❕ I’m looking to make my project more cool and share to others.
 ## - 📧 How to reach me?, Just Email me (joshuacambal01@gmail.com);
-## - 🍿 My favorite movie genre: 
+## - 🍿 My favorite movies: 
 1. Interstellar
 2. The Martian
 3. Project Almanac 
